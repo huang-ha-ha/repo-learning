@@ -635,3 +635,4 @@ if __name__ == "__main__":
         print("3. 包含'不良明细'的工作表存在")
         print("4. 工作表中包含SN, Station Name, Time End三列")
         print("5. Tesseract OCR已正确安装")
+
